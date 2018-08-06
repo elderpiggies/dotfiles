@@ -1,0 +1,9 @@
+windows:
+  - name: piggies
+    root: $CODE
+    layout: tiled
+    panes:
+      - htop
+      - echo ''
+      - 
+      - 
